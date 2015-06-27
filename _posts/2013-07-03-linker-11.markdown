@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Ссылкомат 11"
+---
+Как я говорил в ((http://freetonik.com/blog/all/blogupdate/ посте про обновление блога)), ссылки теперь публикуются под одним тегом – ((http://freetonik.com/blog/tags/linker/ ссылкомат)). В сегодняшнем выпуске:
+
+sjs.jpg
+
+**Фронт-энд разработчику**
+
+1. Если вы делаете прототипы интерфейсов (особенно, каких-нибудь социальных штуковин), то вам может пригодится эдакий ((http://uifaces.com/ lorem ipsum для аватаров)), даже если вам ((http://www.zooportraits.com/ не нравятся люди)).
+1. Удобный ((http://heelhook.github.io/chardin.js/ скрипт)) для создания инструкций на вашем сайте. 
+1. ((http://superherojs.com/ Лучшие статьи, видеоролики и презентации)) о разработке, тестировании и внедрение Javascript.
+1. В нашем современном интернете очень не хватает старых друзей. Например, ((https://www.smore.com/clippy-js Клиппи)) из старого Офиса. 
+1. Довольно ((http://clippingmagic.com/ крутой сервис)) для удаления фона с изображений.
+
+**Музыка**
+
+1. Дурацкий Канье Уэст ((http://www.reddit.com/r/Music/comments/1eywlu/kanye_west_stole_hungarian_music/ украл)) венгерскую песню. Новость, конечно, никакая, зато позволила мне услышать эту чудесную песню: ((http://www.youtube.com/watch?v=CGt-rTDkMcM Omega - Gyöngyhajú lány)).
+1. ((http://www.youtube.com/watch?v=knU9gRUWCno The Strokes – Someday)) радует утром.
+1. ((http://youtu.be/QfU-4Y4_akY Familjen – Det Snurrar i Min Skalle)) превращает любой день в солнечный.
+1. На закате играет ((http://youtu.be/LnaeImQ0TSg MOVITS! – Fel Del Av Gården)).
+1. А ((http://youtu.be/Ves2IImEWjM Elliphant – Down On Life)) провожают солнце. 
+
+Боже, как я люблю скандинавов!
+
+**Видео**
+
+1. Небольшой ((http://vimeo.com/59207751 рассказ про интернет-архив)).
+1. Компьютерная программа ((http://youtu.be/xOCurBYI_gY учится играть в NES)) (Денди). 
+1. ((http://youtu.be/d2yD4yDsiP4 Акапелла-трейлер)) к фильму "Начало"
+1. ((http://youtu.be/3sZzPkFUZyc Велопутешествие)) Мэтта Хантера. 
+
+Нашли что-то интересное? Хотите посоветовать видео? Или музыку? Пишите в комментарии, сделаем ссылкомат в сто раз круче.

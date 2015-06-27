@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Состояние современной рекламы"
+tag: note
+---
+
+![ads today](/images/posts/notfree.png)

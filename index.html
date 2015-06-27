@@ -4,6 +4,32 @@ layout: default
 
 <div class="home">
 
+  {% if paginator.page == 1 %}
+  <div class="posts">
+    <div class="post">
+      <p class="post-summary">
+        Привет! Меня зовут Рахим. Я работаю над образовательным проектом <a href="https://hexlet.io>">Хекслет</a>. Смотрите что я вам принёс:
+
+        <ul>
+          <li><a href="#!">Проекты</a> <small>например, упражнения для глаз</small></li>
+          <li><a href="#!">Лекции</a> <small>скажем, про алгоритмы</small></li>
+          <li><a href="#!">Статьи</a> <small>среди прочего, о насилии над логикой</small></li>
+          <li><a href="#!">Выступления</a> <small>ну, типа, про английский язык</small></li>
+          <li><a href="#!">Переводы</a> <small>к примеру, Фейнман</small> </li>
+          <li><a href="#!">Путешествия</a> <small>в том числе на велосипеде по Канаде</small> </li>
+        </ul>
+
+      </p>
+
+      <p class="post-summary">
+        А в этом блоге я пишу в основном про <a href="#!">английский язык</a>, <a href="#!">размышления о жизни</a> и делюсь <a href="#!">интересными ссылками</a>.
+      </p>
+    </div>
+  </div>
+
+  <hr class="style-two long-margin">
+  {% endif %}
+
   <div class="posts">
     {% for post in paginator.posts %}
       <div class="post">

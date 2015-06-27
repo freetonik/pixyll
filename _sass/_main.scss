@@ -14,7 +14,7 @@
 */
 
 body {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 html, body {
@@ -24,6 +24,17 @@ html, body {
 img {
   width: auto;
   max-width: 100%;
+}
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.long-margin {
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 
 .site-wrap {
@@ -177,7 +188,7 @@ table {
 .pagination,
 .button {
   font-size: 1rem;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   text-align: center;
 }
@@ -240,7 +251,7 @@ table {
 }
 
 form {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   font-size: 1rem;
 }
@@ -282,7 +293,7 @@ pre {
 }
 
 blockquote {
-  padding: 1.33em;
+  padding: 0 1.33em;
   font-style: italic;
   border-left: 5px solid #7a7a7a;
 }
@@ -307,7 +318,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 900;
   line-height: 1.2;
   margin: 1em 0 0.5em;
@@ -487,7 +498,7 @@ h6,
 }
 
 .share-page {
-  font-size:  0.65em;  
+  font-size:  0.65em;
   padding: 2em 0 0 0;
 }
 
@@ -503,7 +514,7 @@ footer,
 footer .wrap {
   color: #7a7a7a;
   background-color: #fafafa;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   clear: both;
 }

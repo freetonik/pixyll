@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Что почитать – 3"
+---
+1043-520x869.jpg
+
+## Программирование
+
+1. ((http://jorendorff.github.com/hackday/2012/library/ Поиск и сортировка в библиотеке)). Человек, знакомый с базовыми алгоритмами не узнает ничего нового, но текст очень интересный, по-настоящему приятно читать.
+2. ((http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/ Как проиндексировать четверть миллиарда страниц)) за 39 часов и 580 долларов. Помогает понять, насколько массивная это задача – быть поисковиком.
+
+## Дизайн
+
+1. ((http://work.repponen.com/iOS-86 iOS 86 года)).
+2. ((http://www.designyourway.net/blog/resources/a-new-batch-of-resources-and-tools-for-web-designers-51-items/ Куча полезных ресурсов)) для веб-дизайнера. Особенно понравилась ((http://jvectormap.com/ векторная карта)) Земли, ((https://github.com/mozilla/pdf.js js-библиотека)) для рендера PDF-файлов и классный ((http://daverupert.com/2010/09/lettering-js/ плагин для типографики)) в вебе.
+
+Заодно реши поделиться: **Книги по дизайну, которые я хочу прочитать в ближайшие годы:**
+
+1. ((http://www.amazon.com/exec/obidos/ASIN/1592535879// Universal Principles of Design)). Настольная книга для начинающего дизайнера. Читать можно с любой страницы.
+2. ((http://www.amazon.com/exec/obidos/ASIN/0321534042/ Non-Designer's Design Book)). Название говорит само за себя. Дизайн для тех, кто не имеет отношения к дизайну.
+3. ((http://www.amazon.com/exec/obidos/ASIN/0321344758/ Don't Make Me Think: A Common Sense Approach to Web Usability)). Простая книга по веб-юзабилити, которая поможет понять, что дизайн это красота из функциональности, а не уродство из дисфункциональности.
+4. ((http://www.amazon.com/exec/obidos/ASIN/0123708966/ Visual Thinking: for Design)). Визуальный аспект дизайна. Желательно иметь некоторое представление о дизайне перед прочтением этой книги.
+5. ((http://tema.livejournal.com/80379.html Список Артемия Лебедева)). 
+6. Дизайн и проектирование интерфейсов, ((http://www.artgorbunov.ru/bb/soviet/20071108/ список Артема Горбунова)).
+7. ((http://letterday.ru Леттердэй – о шрифтах и типографике)).

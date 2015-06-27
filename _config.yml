@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Rakh.im
+email:       freetonik@gmail.com
+author:      Рахим Давлеткалиев
+description: "Сайт Рахима Давлеткалиева"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://rakh.im"
 
 # Google analytics
 google_analytics:
@@ -19,13 +19,13 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons: true
+github_username: freetonik
 stackoverflow_id:
-twitter_username:
+twitter_username: freetonik
 google_plus_id:
 linkedin_username:
-angellist_username:
+angellist_username: freetonik
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -34,10 +34,10 @@ flattr_button:
 show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
@@ -48,7 +48,7 @@ share_hackernews: false
 markdown:     redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     3
+permalink:    none
+paginate:     30
 sass:
   compressed: true
