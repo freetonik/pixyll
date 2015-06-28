@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Произношение Z"
+tag: english
 ---
 Букву Z в Англии, Канаде, Австралии и вообще в большинстве англоговорящих стран произносят «zed». И это, по моему, правильно, потому что Z происходит от греческой ? — «зета». В современном греческом — «зита». В русском подобная родственная буква называется «зэ». Но в США эту букву принято называть «zee» («зи»).
-<blockquote>— Экс, уай, зи (последние три буквы алфавита)</blockquote>
+
+> — Экс, уай, зи (последние три буквы алфавита)
+
 Канада — основной потребитель телевидения США, поэтому зачастую канадских детей приходится переучивать в первом классе произносить букву правильно. «Синдром Улицы Сезам» — так неофициально называют этот неудобный факт. Вот, к примеру, Улица Сезам учит детей произносить Z:
 
 <object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/ZV-PaOyKLno?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZV-PaOyKLno?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="349"></embed></object>
